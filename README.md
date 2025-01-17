@@ -23,7 +23,7 @@ This repository showcases a robust marketplace platform offering dynamic feature
 
 
 ### Workflows
-![Screenshot 2025-01-16 155020](https://github.com/user-attachments/assets/017f22a2-5b2c-41d3-bfeb-5ada01954a1f)
+![Screenshot 2025-01-16 150528](https://github.com/user-attachments/assets/0e760545-b4ef-4d4f-9c6a-dc3b7afa5b83)
 
 
 ### Technical Roadmap
